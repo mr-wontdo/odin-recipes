@@ -1,2 +1,2 @@
 # odin-recipes
-This is recipe project was created to display the usage of HTML.
+This is a recipe project created to practice and display the usage of HTML and CSS.
